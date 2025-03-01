@@ -8,6 +8,7 @@ plugins {
 android {
     namespace = "com.example.weatherbud"
     compileSdk = flutter.compileSdkVersion
+    // compileSdkVersion 34
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
